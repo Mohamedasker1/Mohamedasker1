@@ -1,26 +1,26 @@
 # Hi there, I'm Mohamed Ahmed Asker 👋
 
-## 🚀 Backend Java Developer | Spring Boot Specialist
+##  Backend Java Developer | Spring Boot Specialist
 
 I'm a passionate Backend Java Developer with 1+ year of production experience building scalable microservices and RESTful APIs. I specialize in creating high-performance enterprise solutions that serve thousands of users.
 
-### 💼 About Me
+###  About Me
 
-- 🔭 **Currently Working:** Backend Java Developer at Certified IT Consultant (CIC)
-- 🌱 **Focus Areas:** Spring Boot Microservices, SAP Integration, Performance Optimization
-- 💡 **Expertise:** Building scalable REST APIs, Database optimization, Enterprise system integration
-- 🎓 **Education:** BSc in Computer Science from Arab Open University (Dual degree with Open University - UK)
-- 📍 **Location:** Cairo, Egypt
-- 📫 **Contact:** mohamedasker332@gmail.com
+-  **Currently Working:** Backend Java Developer at Certified IT Consultant (CIC)
+-  **Focus Areas:** Spring Boot Microservices, SAP Integration, Performance Optimization
+-  **Expertise:** Building scalable REST APIs, Database optimization, Enterprise system integration
+-  **Education:** BSc in Computer Science from Arab Open University (Dual degree with Open University - UK)
+-  **Location:** Cairo, Egypt
+-  **Contact:** mohamedasker332@gmail.com
 
-### 🔥 What I'm Currently Working On
+###  What I'm Currently Working On
 
-- 🏗️ Developing enterprise-grade Spring Boot microservices for production environments
-- 🔌 Integrating backend services with SAP ERP systems (IDoc, BAPI, OData, RFC)
-- ⚡ Optimizing MySQL database performance and implementing advanced caching strategies
-- 🐳 Containerizing applications with Docker and setting up CI/CD pipelines
-- 📚 Deepening my knowledge in microservices architecture and distributed systems
-- 🛠️ Building robust e-commerce platforms with high concurrency handling
+-  Developing enterprise-grade Spring Boot microservices for production environments
+-  Integrating backend services with SAP ERP systems (IDoc, BAPI, OData, RFC)
+-  Optimizing MySQL database performance and implementing advanced caching strategies
+-  Containerizing applications with Docker and setting up CI/CD pipelines
+-  Deepening my knowledge in microservices architecture and distributed systems
+-  Building robust e-commerce platforms with high concurrency handling
 
 ### 🛠️ Tech Stack & Tools
 
@@ -66,12 +66,6 @@ I'm a passionate Backend Java Developer with 1+ year of production experience bu
 - ✅ Maintained **85% code coverage** with comprehensive testing
 - ✅ Successfully integrated **SAP ERP systems** for real-time data synchronization
 
-### 🌟 Featured Projects
-
-#### 🛒 [E-commerce Platform](https://github.com/Mohamedasker1)
-Full-stack e-commerce backend handling 1,000+ daily transactions
-- **Tech Stack:** Java, Spring Boot, MySQL, Redis, Docker
-- **Highlights:** Concurrent inventory management, Payment gateway integration, 60% performance improvement
 
 ### 📈 Currently Learning
 
