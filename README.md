@@ -51,11 +51,6 @@ I'm a passionate Backend Java Developer with 1+ year of production experience bu
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📊 GitHub Stats
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedasker1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedasker1&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🏆 Key Achievements
 
